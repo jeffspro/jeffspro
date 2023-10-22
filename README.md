@@ -8,7 +8,7 @@
 
 ---
 
-Ou acompanhar as atualizações do meu [Portfólio](portfólio).
+Ou acompanhar as atualizações do meu [Portfólio](https://jeffspro.github.io/My-professional-portfolio/).
 
 ## Sobre Mim
 - 📚 Estudante de Sistemas de Informação
