@@ -29,7 +29,7 @@ Ou acompanhar as atualizações do meu [Portfólio](https://jeffspro.github.io/M
 
 <div style="display: flex; align-items: center;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages">
 </div>
 
 <!-- # Autor
