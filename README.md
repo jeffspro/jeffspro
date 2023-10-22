@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 Ou acompanhar as atualizações do meu [Portfólio](portfólio).
 
 ## Sobre Mim
@@ -24,6 +23,8 @@ Ou acompanhar as atualizações do meu [Portfólio](portfólio).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="80px" height="40px" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="80px" height="40px" style="margin-right: 10px;">
 </div>
+
+---
 
 <div style="display: flex; align-items: center;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px;">
