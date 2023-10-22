@@ -49,3 +49,41 @@ Here are some ideas to get you started:
 # Autor
 | [<img loading="Jeff" src="https://avatars.githubusercontent.com/u/110831573?v=4" width=115><br><sub>Jefferson da Silva Sorreano</sub>](https://github.com/jeffspro)
 | :---:
+
+# Portfólio de Jefferson Sorreano 👋
+
+## Você também pode me encontrar nestes canais:
+
+<div id="badges" align="left">
+  <img src="Icons\linkedin_icon.png" width="30" alt="LinkedIn">https://www.linkedin.com/in/jefferson-sorreano/
+  <img src="Icons\youtube_icon.png" width="30" alt="YouTube">https://www.youtube.com/@jeffersonsorreano2653
+  <img src="Icons\kaggle_icon.png" width="30" alt="Kaggle">https://www.kaggle.com/jeffersonsorreano
+</div>
+
+Ou acompanhar as atualizações do meu [Portfólio](portfólio).
+
+## Sobre Mim
+- 📚 Estudante de Sistemas de Informação
+- 💙 Fã dos cursos da plataforma Coursera
+- 🌱 Aperfeiçoando meu conhecimento em Front-end
+
+## Ferramentas que eu tenho praticado
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="Icons\mysql_icon.png" title="MySQL" alt="MySQL" class="responsive-image">
+  <img src="Icons\postgresql_icon.png" title="PostgreSQL" alt="PostgreSQL" class="responsive-image">
+  <img src="Icons\sqlite_icon.png" title="SQLite" alt="SQLite" class="responsive-image">
+  <img src="Icons\canva_icon.png" title="Canva" alt="Canva" class="responsive-image">
+  <img src="Icons\r_icon.png" title="R" alt="R" class="responsive-image">
+</div>
+
+---
+
+<div style="display: flex; align-items: center;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true" alt="Top Languages">
+</div>
+
+# Autor
+| [<img src="https://avatars.githubusercontent.com/u/110831573?v=4" width="115" alt="Jefferson Sorreano"><br><sub>Jefferson da Silva Sorreano</sub>](https://github.com/jeffspro)
+| :---:
