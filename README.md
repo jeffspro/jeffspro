@@ -7,6 +7,7 @@
 </div>
 
 ---
+
 Ou acompanhar as atualizações do meu [Portfólio](portfólio).
 
 ## Sobre Mim
