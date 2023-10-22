@@ -6,7 +6,9 @@
   <img src="Icons\linkedin_icon.png" width="30" alt="LinkedIn"> https://www.linkedin.com/in/jefferson-sorreano/<br><img src="Icons\youtube_icon.png" width="30" alt="YouTube"> https://www.youtube.com/@jeffersonsorreano2653<br><img src="Icons\kaggle_icon.png" width="30" alt="Kaggle"> https://www.kaggle.com/jeffersonsorreano<br>
 </div>
 
- | Ou acompanhar as atualizações do meu [Portfólio](portfólio).
+---
+
+Ou acompanhar as atualizações do meu [Portfólio](portfólio).
 
 ## Sobre Mim
 - 📚 Estudante de Sistemas de Informação
