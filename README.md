@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # SEJA BEM-VINDO À NOSSA PÁGINA! 👋
 
 ## Você também me encontra nesses canais
@@ -32,14 +35,6 @@ Here are some ideas to get you started:
 - 🌱 `Aperfeiçoando meu conhecimento sobre Front-end`
 
 #### 🔨 As ferramentas que eu tenho praticado
-
-<style>
-.responsive-image {
-  width: 80px;
-  height: 40px;
-  margin-right: 10px;
-}
-</style>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" class="responsive-image">
@@ -63,14 +58,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="stats" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true" alt="top langs">
 </div>
-
-<!-- <style>
-  @media screen and (max-width: 768px) {
-    img {
-      max-width: 50%;
-    }
-  }
-</style> -->
 
 # Autor
 | [<img loading="Jeff" src="https://avatars.githubusercontent.com/u/110831573?v=4" width=115><br><sub>Jefferson da Silva Sorreano</sub>](https://github.com/jeffspro)

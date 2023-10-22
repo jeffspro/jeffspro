@@ -1,0 +1,15 @@
+/* estilo.css */
+.responsive-image {
+    width: 80px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+
+<!-- <style>
+  @media screen and (max-width: 768px) {
+    img {
+      max-width: 50%;
+    }
+  }
+</style> -->
