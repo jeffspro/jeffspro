@@ -33,6 +33,22 @@ Here are some ideas to get you started:
 
 #### 🔨 As ferramentas que eu tenho praticado
 
+<style>
+.responsive-image {
+  width: 80px;
+  height: 40px;
+  margin-right: 10px;
+}
+</style>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" class="responsive-image">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="React" class="responsive-image">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" class="responsive-image">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" class="responsive-image">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" class="responsive-image">
+</div>
+
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80px" height="40px" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="React" width="80px" height="40px" style="margin-right: 10px;">
