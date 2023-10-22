@@ -52,8 +52,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="80px" height="40px" style="margin-right: 10px;">
 </div>
 
----
-
 <div style="display: flex; align-items: center;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="stats" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true" alt="top langs">
