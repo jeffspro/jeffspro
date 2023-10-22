@@ -6,7 +6,7 @@
   <img src="Icons\linkedin_icon.png" width="30" alt="LinkedIn"> https://www.linkedin.com/in/jefferson-sorreano/<br><img src="Icons\youtube_icon.png" width="30" alt="YouTube"> https://www.youtube.com/@jeffersonsorreano2653<br><img src="Icons\kaggle_icon.png" width="30" alt="Kaggle"> https://www.kaggle.com/jeffersonsorreano<br>
 </div>
 
-Ou acompanhar as atualizações do meu [Portfólio](portfólio).
+ | Ou acompanhar as atualizações do meu [Portfólio](portfólio).
 
 ## Sobre Mim
 - 📚 Estudante de Sistemas de Informação
@@ -28,6 +28,6 @@ Ou acompanhar as atualizações do meu [Portfólio](portfólio).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true" alt="Top Languages">
 </div>
 
-# Autor
+<!-- # Autor
 | [<img src="https://avatars.githubusercontent.com/u/110831573?v=4" width="115" alt="Jefferson Sorreano"><br><sub>Jefferson da Silva Sorreano</sub>](https://github.com/jeffspro)
-| :---:
+| :---: -->
