@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # SEJA BEM-VINDO À NOSSA PÁGINA! 👋
-#### VOCÊ TAMBÉM ME ENCONTRA NESSES CANAIS
+
+## VOCÊ também me encontra nesses canais
+
 
 <div id="badges" align = "left">
     <a href = "https://www.linkedin.com/in/jefferson-sorreano/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,21 +26,39 @@ Here are some ideas to get you started:
     </a>  
 </div>
 
-Ou pode acompanhar as atualizações do meu [Portifólio](portifólio).
+#### Ou pode acompanhar as atualizações do meu [Portifólio](portifólio)
 
-- ❤ Estudante de Sistemas de Informação
-- 💙 Fã dos cursos da plataforma Coursera
-- 🌱 Aperfeiçoando meu conhecimento sobre Front-end
+- ❤ `Estudante de Sistemas de Informação`
+- 💙 `Fã dos cursos da plataforma Coursera`
+- 🌱 `Aperfeiçoando meu conhecimento sobre Front-end`
+
+#### 🔨 As ferramentas que eu tenho praticado
 
 <div align = "left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="React" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"width="40" hight="40"/>                     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="React" width="40" hight="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" hight="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="5%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="r" width="5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="r" width="40" hight="40"  />
 </div>
 
-<div align = "left">
-<img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true"/>
+---
+
+<div style="display: flex; align-items: left;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="stats" style="margin-right: 20px;">
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=true" alt="top langs">
+  </p>
 </div>
+
+<style>
+  @media screen and (max-width: 768px) {
+    img {
+      max-width: 50%;
+    }
+  }
+</style>
+
+# Autor
+| [<img loading="Jeff" src="https://avatars.githubusercontent.com/u/110831573?v=4" width=115><br><sub>Jefferson da Silva Sorreano</sub>](https://github.com/jeffspro)
+| :---:
