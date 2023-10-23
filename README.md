@@ -26,6 +26,7 @@ Ou acompanhar as atualizações do meu [Portfólio](https://jeffspro.github.io/M
 </div>
 
 ---
+
 <div style="display: flex; align-items: center;">
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&layout=compact&langs_count=12&theme=tokyonight" alt="Top Languages" style="margin-right: 5px;"/>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
