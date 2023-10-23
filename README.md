@@ -26,21 +26,10 @@ Ou acompanhar as atualizações do meu [Portfólio](https://jeffspro.github.io/M
 </div>
 
 ---
-
-<div style="display: flex; align-items: center;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages">
-</div>
-
----
-
-<div style="display: flex; align-items: center;"> 
-  <td>
-    <tl><img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px;">
-    </tl>
-    <tl><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages">
-    </tl>
-  </td>
+<div style="display: flex; align-items: center;">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&layout=compact&langs_count=12&theme=tokyonight" alt="Top Languages" style="margin-right: 5px;"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<a href="https://github.com/jeffspro">
 </div>
 
 <!-- # Autor
