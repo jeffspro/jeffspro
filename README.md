@@ -32,23 +32,15 @@ Ou acompanhar as atualizações do meu [Portfólio](https://jeffspro.github.io/M
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages">
 </div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px; flex: 1;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages" style="flex: 1;">
-</div>
+---
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px; max-width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages" style="max-width: 50%;">
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; padding: 10px;">
-  <div style="border: 1px solid #ccc; margin: 5px; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  </div>
-  <div style="border: 1px solid #ccc; margin: 5px; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages">
-  </div>
+<div style="display: flex; align-items: center;"> 
+  <td>
+    <tl><img src="https://github-readme-stats.vercel.app/api?username=jeffspro&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-right: 10px;">
+    </tl>
+    <tl><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffspro&show_icons=true&theme=tokyonight&count_private=false" alt="Top Languages">
+    </tl>
+  </td>
 </div>
 
 <!-- # Autor
